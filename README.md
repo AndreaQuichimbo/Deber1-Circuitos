@@ -40,7 +40,7 @@ Analizar y comprender  el capítulo VII y VIII del libro de Análisis de Circuit
 
 ![image](https://user-images.githubusercontent.com/84587172/125473917-f2b7c84b-6c65-4090-8c42-a0b51a85fd81.png)  
   
-</ div >
+</div>
  
 **CAPITULO VIII**
 
