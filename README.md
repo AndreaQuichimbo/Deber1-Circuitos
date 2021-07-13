@@ -70,12 +70,8 @@ Ing. Darwin Omar Alulema Flores
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123570412-c5926b80-d78d-11eb-9da5-3dc08de6dc2e.png)
-  
-![image](https://user-images.githubusercontent.com/84430867/125398086-7a26b280-e374-11eb-8b18-91ae98c7254f.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/123570500-f1155600-d78d-11eb-9988-afb3d34cb2b4.png)
-
-![image](https://user-images.githubusercontent.com/84430867/125397458-970eb600-e373-11eb-922f-de6a70f45cd0.png)
 
 </div>
 
@@ -85,11 +81,7 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/123570535-07bbad00-d78e-11eb-8036-63cde2dbef5f.png)
   
-![image](https://user-images.githubusercontent.com/84430867/125397268-50b95700-e373-11eb-8785-a1f4a796f213.png)
-  
 ![image](https://user-images.githubusercontent.com/84430867/123570555-14400580-d78e-11eb-85f0-d72318d26a7f.png)
-
-![image](https://user-images.githubusercontent.com/84430867/125397299-5b73ec00-e373-11eb-81f9-4b40aeb3dfb5.png)
 
 </div>
   
@@ -234,8 +226,6 @@ B. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/123532567-e0080e80-d6d3-11eb-8353-6960f5af4b7f.png)
-
-![image](https://user-images.githubusercontent.com/84430867/125397865-26b46480-e374-11eb-8154-bcca718011ca.png)
 
 </div>
 
@@ -539,7 +529,17 @@ D. Determine el voltaje en R5
 ![image](https://user-images.githubusercontent.com/84430867/123534244-5fe8a580-d6e1-11eb-81e4-bb3f32261e02.png)
   
  </div>
-  
+
+![image](https://user-images.githubusercontent.com/84587293/125396669-798d1c80-e372-11eb-9fbc-5fa35932e8c2.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125397513-a8f05900-e373-11eb-910f-daf024cf50be.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125397529-aee63a00-e373-11eb-9853-ee3551de8cd2.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125397554-b4438480-e373-11eb-9c1b-e098c1dcaf51.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125397829-1a300c00-e374-11eb-92f7-4bbd7b48fb5d.png)
+
 49. En el circuito puente de la ﬁgura 8-102 encuentre la corriente a través de cada resistor.
 
 <div align="center">
@@ -548,24 +548,15 @@ D. Determine el voltaje en R5
   
 </div>
 
-**8-9 Análisis de circuitos por computadora**
+![image](https://user-images.githubusercontent.com/84587293/125397926-3df35200-e374-11eb-8356-1e6856b5d97b.png)
 
-51. Utilice Multisim para encontrar las corrientes a través de todos los resistores del circuito que se muestra en la ﬁgura 8-86.
-  
-<div align="center">
+![image](https://user-images.githubusercontent.com/84587293/125398273-b823d680-e374-11eb-9b9f-c6174f1080cf.png)
 
-![image](https://user-images.githubusercontent.com/84430867/123534317-f9b05280-d6e1-11eb-8648-31b9d86d61aa.png)
-  
-  </div>
-  
-53. Use PSpice para encontrar las corrientes a través de todos los resistores del circuito de la ﬁgura 8-96.
-  
-  <div align="center">
+![image](https://user-images.githubusercontent.com/84587293/125398298-c114a800-e374-11eb-8fce-4c1be9a25334.png)
 
-![image](https://user-images.githubusercontent.com/84430867/123534355-3aa86700-d6e2-11eb-9b1e-9c9b6d5de5f4.png)
-  
-  </div>
+![image](https://user-images.githubusercontent.com/84587293/125398321-c83bb600-e374-11eb-8bb7-03c6869dbfa2.png)
 
+![image](https://user-images.githubusercontent.com/84587293/125398874-78112380-e375-11eb-89fa-2606aa8b7e72.png)
 
 # 4. VIDEO
 
