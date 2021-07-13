@@ -98,8 +98,12 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/123571044-063eb480-d78f-11eb-8245-32a0193b4063.png)
+
+![image](https://user-images.githubusercontent.com/84430867/125398945-8f501100-e375-11eb-8f6d-e09e7b99e5b5.png)
   
 ![image](https://user-images.githubusercontent.com/84430867/123571072-122a7680-d78f-11eb-9c17-6335372cfd3f.png)
+
+![image](https://user-images.githubusercontent.com/84430867/125398967-96771f00-e375-11eb-9b51-482cb265ed5a.png)
 
 </div>
 
@@ -108,6 +112,8 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/123531847-94526680-d6cd-11eb-9115-fcc847f2e978.png)
+
+![image](https://user-images.githubusercontent.com/84430867/125399031-a42ca480-e375-11eb-9034-390790189ca2.png)
 
 </div>
 
