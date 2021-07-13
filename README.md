@@ -265,8 +265,10 @@ B. Calcule R2 cuando Vsal = 20 V.
   
 ![image](https://user-images.githubusercontent.com/84430867/125487868-d2498e0c-27d5-424c-9b70-fe721dc05638.png)
 
-![image](https://user-images.githubusercontent.com/84430867/125488049-5794fa57-b08c-43ee-8ea4-2901679e5d25.png)
+![image](https://user-images.githubusercontent.com/84587293/125490726-3f576a83-bab5-4d67-8527-a9080285ab25.png)
 
+![image](https://user-images.githubusercontent.com/84587293/125490766-d8ee5775-b41a-48aa-abd3-e3f9665e4228.png
+  
 </div>
 
 **7-5 Efectos de carga de los instrumentos**
