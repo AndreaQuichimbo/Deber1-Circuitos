@@ -195,9 +195,9 @@ Veriﬁque que la potencia suministrada por la fuente de voltaje es igual a la p
 
 A. Determine ID.
 
-B.Calcule el valor requerido de RS.
+B. Calcule el valor requerido de RS.
 
-C.EncuentreV  DS.
+C. EncuentreV  DS.
 
 25. Calcule IC y Vce para el circuito de la ﬁgura 7-67.
 
@@ -245,7 +245,7 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 23. Vea el circuito de la ﬁgura 8-83:
 
-una.Escriba Las ecuaciones de Corriente de rama.
+A. Escriba Las ecuaciones de Corriente de rama.
 
 B. Encuentre la corriente I 2.
 
