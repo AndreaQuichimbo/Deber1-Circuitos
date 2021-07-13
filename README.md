@@ -182,66 +182,6 @@ C. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las
   
 </div>
 
-15. Vea los circuitos de la ﬁgura 7-58:
-
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84430867/123715440-ee723980-d83d-11eb-9e06-5480e5119d5e.png)
-  
-![image](https://user-images.githubusercontent.com/84430867/123715501-106bbc00-d83e-11eb-8ac2-c2a5809fe32e.png)
-
-![image](https://user-images.githubusercontent.com/84430867/125478646-462ccaa8-8ab8-4c82-8dbc-7835232442c5.png)
-
-</div>
-
-A. Encuentre las corrientes indicadas.
-
-B. Encuentre el voltaje Vab.
-
-C. Veriﬁque que la potencia suministrada al circuito es igual a la suma de laspotencias disipadas por los resistores.
-
-**7-3 Aplicacion es de los circuitos en serie-paralelo.**
-
-17. Encuentra hoy las corrientes y caídas de voltaje en el circuito de la ﬁgura 7-60. 
-
-Veriﬁque que la potencia suministrada por la fuente de voltaje es igual a la potencia disipada por los resistores y por el diodo zener.
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/123532175-a1bd2000-d6d0-11eb-89a2-20196c27ffe8.png)
-
-</div>
-
-19. En el circuito de la ﬁgura 7-62 determinar el intervalo de R (valores máximo ymínimo) que asegurarán que el voltaje de salida sea de VL = 5.6 V mientrasque no se exceda la especiﬁcación de máxima potencia del diodo zener.
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/123532197-daf59000-d6d0-11eb-8982-5a670d50c14d.png)
-
-</div>
-
-21. En el circuito de la ﬁgura 7-64 determinar Vb, Ic y Vce.
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/123532235-25770c80-d6d1-11eb-8901-5bf324edf77c.png)
-
-</div>
-
-23. Considere el circuito de la ﬁgura 7-65 y los valores indicados:
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/123532297-a33b1800-d6d1-11eb-9c08-303f4459c8af.png)
-
-</div>
-
-A. Determine ID.
-
-B. Calcule el valor requerido de RS.
-
-C. EncuentreV  DS.
-
 25. Calcule IC y Vce para el circuito de la ﬁgura 7-67.
 
 <div align="center">
