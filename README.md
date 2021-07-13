@@ -137,6 +137,12 @@ B. IT, I1, I2, I3, I4
 
 C. Vab,Vbc
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/125402207-c2949f00-e379-11eb-93ed-416fdee09ed5.png)
+
+</div>
+
 13. Vea el circuito de la ﬁgura 7-56.
 
 <div align="center">
