@@ -267,7 +267,7 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 ![image](https://user-images.githubusercontent.com/84587293/125490726-3f576a83-bab5-4d67-8527-a9080285ab25.png)
 
-![image](https://user-images.githubusercontent.com/84587293/125490766-d8ee5775-b41a-48aa-abd3-e3f9665e4228.png
+![image](https://user-images.githubusercontent.com/84587293/125490910-e73cc8b9-9d9e-49f0-b0f1-d5a1a63851d7.png)
   
 </div>
 
