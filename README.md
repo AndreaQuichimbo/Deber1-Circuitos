@@ -73,6 +73,8 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84430867/123570500-f1155600-d78d-11eb-9988-afb3d34cb2b4.png)
 
+![image](https://user-images.githubusercontent.com/84430867/125397458-970eb600-e373-11eb-922f-de6a70f45cd0.png)
+
 </div>
 
 3. Escriba una expresión para RT1 y RT2 para las redes de la ﬁgura 7-48.
