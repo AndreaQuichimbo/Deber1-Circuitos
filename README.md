@@ -438,9 +438,13 @@ Sistema de ecuaciones de 1,2 y 3:
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/123533996-624a0000-d6df-11eb-8473-5a186ad8cecc.png)
+![image](https://user-images.githubusercontent.com/84587293/125393662-f9fd4e80-e36d-11eb-8af1-81f8e80557b6.png)
   
   </div>
+
+![image](https://user-images.githubusercontent.com/84587293/125393884-5f513f80-e36e-11eb-9eaa-ba246990991b.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125393903-65dfb700-e36e-11eb-9203-44c785330ee6.png)
 
 43. Utilice las estafadores versi las Δ - Y o Y - Δ, para encontrar la corriente I para el circuito de la ﬁgura 8-96.
 
