@@ -583,6 +583,10 @@ Sistema de ecuaciones de 1,2 y 3:
 
 ![image](https://user-images.githubusercontent.com/84430867/123533918-ddf77d00-d6de-11eb-839a-db8b5bceb30a.png)
   
+![image](https://user-images.githubusercontent.com/84430867/125496907-6f8ff097-0f37-4a3a-acd7-9ea5d2e744b9.png)
+
+![image](https://user-images.githubusercontent.com/84430867/125496942-2749a741-dab4-4876-a248-237cfde8d360.png)
+
 </div>
   
  **8-7 Conversiones delta - Y (Pi -T)**
