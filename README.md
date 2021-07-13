@@ -107,6 +107,8 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
   
 ![image](https://user-images.githubusercontent.com/84430867/123571044-063eb480-d78f-11eb-8245-32a0193b4063.png)
   
+![image](https://user-images.githubusercontent.com/84430867/125392833-7b53e180-e36c-11eb-87df-904a8995b785.png)
+  
 ![image](https://user-images.githubusercontent.com/84430867/123571072-122a7680-d78f-11eb-9c17-6335372cfd3f.png)
 
 </div>
