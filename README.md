@@ -320,10 +320,6 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 </div>
 
-![image](https://user-images.githubusercontent.com/84430867/125487480-c6ba6a95-6df8-4764-ac7b-b87c84507632.png)
-
-![image](https://user-images.githubusercontent.com/84430867/125487422-a746d116-9292-4c15-a615-13467368b30f.png)
-
 **7-5 Efectos de carga de los instrumentos**
 
 35.- Un voltímetro con una sensibilidad de S = 20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura  7-74. El medidor indica un voltaje de 5.00 V.
@@ -567,10 +563,12 @@ Sistema de ecuaciones de 1,2 y 3:
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/123533873-86f1a800-d6de-11eb-8c04-cd7faf1e70f2.png)
+![image](https://user-images.githubusercontent.com/84587293/125487474-0e5b1474-362d-4ce5-9792-3bdb92fb925d.png)
   
 </div>
-  
+
+
+
 35. Repita el problema 33 para el circuito de la ﬁgura 8-90.
 
 <div align="center">
