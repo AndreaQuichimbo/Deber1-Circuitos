@@ -398,11 +398,11 @@ c.Determine el voltaje Vab.
 
 19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes.
 
-![image](https://user-images.githubusercontent.com/84587293/125389526-f2867700-e366-11eb-9b1f-b1b3bb81f591.png)
+![17](https://user-images.githubusercontent.com/84587172/125476504-66c4e821-6a7c-4800-a457-6730e4706b09.png)
 
 21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
-![image](https://user-images.githubusercontent.com/84587293/125389570-08943780-e367-11eb-8bef-62d7cdd241e8.png)
+![18](https://user-images.githubusercontent.com/84587172/125476540-7b2e2cb4-0803-421c-af99-96fa01131d9e.png)
 
 23. Vea el circuito de la figura 8-83:
 a. Escriba las ecuaciones de corriente de rama.
