@@ -34,8 +34,11 @@ Ing. Darwin Omar Alulema Flores
 
 <div align="center">
   
+![image](https://user-images.githubusercontent.com/84587172/125473893-90ade79d-a6c3-4caa-9615-785746dc47b8.png)
 
-</div>
+![image](https://user-images.githubusercontent.com/84587172/125473917-f2b7c84b-6c65-4090-8c42-a0b51a85fd81.png)  
+  
+</ div >
  
 **CAPITULO VIII**
 
@@ -288,41 +291,66 @@ A. Determine el intervalo del voltaje de salida (del mínimo al máximo) que see
 
 B. Calcule R2 cuando Vsal = 20 V.
 
+**7-5 Efectos de carga de los instrumentos**
+
+35.- Un voltímetro con una sensibilidad de S = 20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura  7-74. El medidor indica un voltaje de 5.00 V.
+
+![image](https://user-images.githubusercontent.com/84587172/125474154-86a03fad-26af-4508-989d-b9c1cb4eee7a.png)
+
+![1](https://user-images.githubusercontent.com/84587172/125474182-fc45dab1-8a91-4ac1-962d-7325c71659ca.png)
+
+![2](https://user-images.githubusercontent.com/84587172/125474192-b37df978-2bbf-48ce-a771-5743dd34cc44.png)
+
+37.- Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
+
+![3](https://user-images.githubusercontent.com/84587172/125474245-05e60026-81d6-4585-bd8b-b06b1173885f.png)
+
+![4](https://user-images.githubusercontent.com/84587172/125474265-e4f095e1-ca65-4f17-96f2-267667a48a46.png)
+
+**7-6 Análisis de circuitos por computadora**
+
+39.- Use Multisim para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10	
+
+![image](https://user-images.githubusercontent.com/84587172/125474350-6dd2e1af-1166-4790-bf18-41022d878866.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125474373-39e52901-e2d1-44ee-9a66-9802e2716f97.png)
+
+41.- Use Multisim para encontrar las lecturas del medidor en el circuito de la figura 7-75, si está en la escala de 50 V.
+
+![image](https://user-images.githubusercontent.com/84587172/125474393-a3e56798-ebe4-4651-9f2f-833a4305e9e1.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125474414-006bc5c8-5449-4deb-99ff-ffd15d6c2c36.png)
+
+43.- Use PSpice para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10
+
+![image](https://user-images.githubusercontent.com/84587172/125474483-df2b5ea8-33ee-44d3-853f-e913f61868ee.png)
+
+![image](https://user-images.githubusercontent.com/84587172/125474500-b9134688-53f1-4742-8405-90e435da7ce5.png)
+
+
 # PROBLEMAS CAPÍTULO VIII
+
+**8.1 Fuentes de corriente constante **
 
 1.Encuentre el voltaje VS para el circuito de la figura 8-64 
 
-![image](https://user-images.githubusercontent.com/84587293/125383746-83f0eb80-e35d-11eb-983a-2237f310682a.png)
- 
- Vs = IR = 3*6 = 18v +20v = 38v
+![5](https://user-images.githubusercontent.com/84587172/125475758-2cc4b68d-167c-4aaa-82b4-762a26275532.png)
 
 3. Vea el circuito de la ﬁgura 8-66:
 
-A. Escriba Las ecuaciones de Corriente de rama.
+![image](https://user-images.githubusercontent.com/84587172/125475277-4c31d077-935b-4b44-bc07-9296e43362e3.png)
 
-B. Encuentre la corriente I 2.
-
-C. Determine el voltaje V ab.
-
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84430867/123533499-c4086b00-d6db-11eb-8499-5891287e5a35.png)
-  
-  </div>
-
-![image](https://user-images.githubusercontent.com/84587293/125384931-3d9c8c00-e35f-11eb-84ae-b5cb054d209d.png)
+![6](https://user-images.githubusercontent.com/84587172/125475811-66de9bf7-3c88-444b-8dda-9db2a69608f9.png)
 
 5. Para el circuito de la ﬁgura 8-68 encuentre las corrientes I1 e I2
 
-![image](https://user-images.githubusercontent.com/84587293/125385322-e21ece00-e35f-11eb-836f-bd1418a61670.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125385740-b4865480-e360-11eb-8674-4f40f3ed035d.png)
+![8](https://user-images.githubusercontent.com/84587172/125475887-f834bf1a-8d73-45c7-8a35-88f44f8f5075.png)
 
 7. Veriﬁque que la potencia suministrada por las fuentes es igual a la suma delas potencias disipadas por los resistores en el circuito de la ﬁgura 8-68.
 
-![image](https://user-images.githubusercontent.com/84587293/125385839-e0093f00-e360-11eb-8271-1b2213bdf170.png)
+![image](https://user-images.githubusercontent.com/84587172/125475923-db273f46-7b13-4376-aaea-5f10b39fe403.png)
 
-![image](https://user-images.githubusercontent.com/84587293/125386510-0a0f3100-e362-11eb-8e24-5ab304defe1d.png)
+![9](https://user-images.githubusercontent.com/84587172/125475937-a261e9fd-8dec-4d81-944d-75fc3b16f61a.png)
 
 **8-2 Conversiones de funete
 
