@@ -167,6 +167,8 @@ C. Vab,Vbc
 
 ![image](https://user-images.githubusercontent.com/84430867/123532088-b77e1580-d6cf-11eb-8bd8-3c0dd32c39ea.png)
   
+![image](https://user-images.githubusercontent.com/84430867/125411336-7189a880-e383-11eb-8b6b-7fca4da42e46.png)
+  
 </div>
 
 A. Encuentre las corrientes I1, I2, I3, I4, I5 e I6.
