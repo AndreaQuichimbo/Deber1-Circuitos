@@ -592,17 +592,7 @@ D. Determine el voltaje en R5
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/123534244-5fe8a580-d6e1-11eb-81e4-bb3f32261e02.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125396669-798d1c80-e372-11eb-9fbc-5fa35932e8c2.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125397513-a8f05900-e373-11eb-910f-daf024cf50be.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125397529-aee63a00-e373-11eb-9853-ee3551de8cd2.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125397554-b4438480-e373-11eb-9c1b-e098c1dcaf51.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125397829-1a300c00-e374-11eb-92f7-4bbd7b48fb5d.png)
+![image](https://user-images.githubusercontent.com/84587293/125490278-7b8601ce-34a2-4712-a670-9b6ae0369603.png)
 
 </div>
 
@@ -610,17 +600,7 @@ D. Determine el voltaje en R5
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/123534268-8eff1700-d6e1-11eb-9454-b90943c01b48.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125397926-3df35200-e374-11eb-8356-1e6856b5d97b.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125398273-b823d680-e374-11eb-9b9f-c6174f1080cf.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125398298-c114a800-e374-11eb-8fce-4c1be9a25334.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125398321-c83bb600-e374-11eb-8bb7-03c6869dbfa2.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125398874-78112380-e375-11eb-89fa-2606aa8b7e72.png)
+![image](https://user-images.githubusercontent.com/84587293/125490204-84d475ef-e3a1-4e0c-8fb4-66dd5608f87c.png)
 
 </div>
 
