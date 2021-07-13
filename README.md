@@ -362,6 +362,8 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84430867/123533776-d1265980-d6dd-11eb-9533-0d2ad087f7f2.png)
   
+![image](https://user-images.githubusercontent.com/84430867/125394074-b35c2400-e36e-11eb-8f5e-921116d6648c.png)
+  
 </div>
 
 Redibujamos el circuito:
