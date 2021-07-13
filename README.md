@@ -356,9 +356,10 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 9. Convierta cada fuente de voltaje de la ﬁgura 8-70 en su fuente de corrienteequivalente.
 
-![image](https://user-images.githubusercontent.com/84587293/125386937-c2d57000-e362-11eb-9b22-36937cb18d64.png)
+![10](https://user-images.githubusercontent.com/84587172/125476227-0694f854-8702-4827-abdc-458ae2e8dc40.png)
 
-![image](https://user-images.githubusercontent.com/84587293/125387349-5ad35980-e363-11eb-955e-724404024b12.png)
+![11](https://user-images.githubusercontent.com/84587172/125476233-1e0692fd-9bc9-433f-a6ad-c13f72306f35.png)
+
 
 11.Vea el circuito de la ﬁgura 8-72:
 
