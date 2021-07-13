@@ -39,6 +39,8 @@ Analizar y comprender  el capítulo VII y VIII del libro de Análisis de Circuit
 ![image](https://user-images.githubusercontent.com/84587172/125473893-90ade79d-a6c3-4caa-9615-785746dc47b8.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/125473917-f2b7c84b-6c65-4090-8c42-a0b51a85fd81.png)  
+
+![image](https://user-images.githubusercontent.com/84587172/125485474-6567c36a-b5a0-4333-89da-d43aaa15a228.png)  
   
 </div>
  
