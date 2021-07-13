@@ -99,7 +99,11 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
   
 ![image](https://user-images.githubusercontent.com/84430867/123571044-063eb480-d78f-11eb-8245-32a0193b4063.png)
   
+![image](https://user-images.githubusercontent.com/84430867/125394663-a25fe280-e36f-11eb-843e-df70a653a2f1.png)
+  
 ![image](https://user-images.githubusercontent.com/84430867/123571072-122a7680-d78f-11eb-9c17-6335372cfd3f.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/125394612-8d834f00-e36f-11eb-9fb1-91f0e733b501.png)
 
 </div>
 
