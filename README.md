@@ -28,6 +28,8 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+Analizar y comprender  el capítulo VII y VIII del libro de Análisis de Circuitos: Teoría Y Práctica, podremos resolver y  aplicar el teorema de súper posición para determinar la corriente o el voltaje en cualquier resistencia en una red dada y determinar la resistencia de carga requerida en cualquier circuito para asegurar que la carga reciba la máxima potencia del circuito y de igual manera podremos convertir un delta resistivo en un circuito Y equivalente o un Y en su circuito delta equivalente y resolver el circuito simpliﬁcado resultante.
+
 # 2. MARCO TEORICO
 
 **CAPITULO VII**
@@ -244,10 +246,9 @@ C. EncuentreV  DS.
   
 ![image](https://user-images.githubusercontent.com/84430867/123532355-28bec800-d6d2-11eb-9735-3fe47b439471.png)
 
-</div>
-
 ![image](https://user-images.githubusercontent.com/84587293/125404454-3f287d00-e37c-11eb-9f34-d1626af910c8.png)
 
+</div>
 
 **7- 4 Potenciómetros.**
 
@@ -398,11 +399,11 @@ c.Determine el voltaje Vab.
 
 19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes.
 
-![17](https://user-images.githubusercontent.com/84587172/125476504-66c4e821-6a7c-4800-a457-6730e4706b09.png)
+![image](https://user-images.githubusercontent.com/84587293/125389526-f2867700-e366-11eb-9b1f-b1b3bb81f591.png)
 
 21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
-![18](https://user-images.githubusercontent.com/84587172/125476540-7b2e2cb4-0803-421c-af99-96fa01131d9e.png)
+![image](https://user-images.githubusercontent.com/84587293/125389570-08943780-e367-11eb-8bef-62d7cdd241e8.png)
 
 23. Vea el circuito de la figura 8-83:
 a. Escriba las ecuaciones de corriente de rama.
@@ -653,5 +654,7 @@ D. Determine el voltaje en R5
 # 4. VIDEO
 
 # 5. CONCLUSIONES
+
+Al comprender y resolver los ejercicios del capítulo VII y VIII capítulo seremos  capaces  de convertir una fuente de voltaje en una fuente de corriente equivalente y analizar los circuitos que tienen dos a más fuentes de corriente en paralelo de igual manera aplicar el teorema de súper posición para determinar la corriente o el voltaje en cualquier resistencia en una red dada, establecer el teorema de Thévenin y determinar el circuito equivalente de Thévenin en cualquier red resistiva
 
 # 6. BIBLIOGRAFÍAS
