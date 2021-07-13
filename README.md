@@ -347,6 +347,8 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 ![6](https://user-images.githubusercontent.com/84587172/125475811-66de9bf7-3c88-444b-8dda-9db2a69608f9.png)
 
+</div>
+
 5. Para el circuito de la ﬁgura 8-68 encuentre las corrientes I1 e I2
   
 <div align="center">
