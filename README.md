@@ -572,8 +572,10 @@ Sistema de ecuaciones de 1,2 y 3:
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/125489689-604047f6-224b-4121-89d5-ea57444d1e87.png)
-  
+![image](https://user-images.githubusercontent.com/84587293/125489971-4d74565f-6bbd-45bc-be5d-54b82deefa99.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125490002-7bb65e94-50d8-4127-8ff2-81c405cc642e.png)
+    
 </div>
 
 **8-8 Redes puente**
