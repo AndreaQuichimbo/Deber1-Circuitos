@@ -223,6 +223,9 @@ C. EncuentreV  DS.
 
 </div>
 
+![image](https://user-images.githubusercontent.com/84587293/125404454-3f287d00-e37c-11eb-9f34-d1626af910c8.png)
+
+
 **7- 4 Potenciómetros.**
 
 27. Vea el circuito de la ﬁgura 7-69:
