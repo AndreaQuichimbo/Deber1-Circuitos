@@ -260,7 +260,7 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 </div>
 
-33.En el circuito de la ﬁgura 7-72 calcule el voltaje de salidaV sal cuando RL = 0Ω ,250Ω y 500Ω
+33. En el circuito de la ﬁgura 7-72 calcule el voltaje de salidaV sal cuando RL = 0Ω ,250Ω y 500Ω
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/125487868-d2498e0c-27d5-424c-9b70-fe721dc05638.png)
