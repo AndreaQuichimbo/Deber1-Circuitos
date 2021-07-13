@@ -99,11 +99,7 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
   
 ![image](https://user-images.githubusercontent.com/84430867/123571044-063eb480-d78f-11eb-8245-32a0193b4063.png)
   
-![image](https://user-images.githubusercontent.com/84430867/125394663-a25fe280-e36f-11eb-843e-df70a653a2f1.png)
-  
 ![image](https://user-images.githubusercontent.com/84430867/123571072-122a7680-d78f-11eb-9c17-6335372cfd3f.png)
-  
-![image](https://user-images.githubusercontent.com/84430867/125394612-8d834f00-e36f-11eb-9fb1-91f0e733b501.png)
 
 </div>
 
@@ -459,6 +455,32 @@ Sistema de ecuaciones de 1,2 y 3:
 ![image](https://user-images.githubusercontent.com/84430867/123534047-b654e480-d6df-11eb-91f3-a083c2ffff8d.png)
   
   </div>
+  
+ ![image](https://user-images.githubusercontent.com/84587293/125394429-4ac17700-e36f-11eb-8192-2c9ca1c04c3c.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394458-51e88500-e36f-11eb-8416-5bbf493131f0.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394616-8eb47c00-e36f-11eb-8efe-55a65f3bf748.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394649-9aa03e00-e36f-11eb-9099-1507439646d2.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394698-b3105880-e36f-11eb-8a5f-e2343915b9e6.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394714-b99ed000-e36f-11eb-9df4-06b959cb3b22.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394737-c02d4780-e36f-11eb-96d7-91321f254b4f.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394781-d3401780-e36f-11eb-9059-104bc1bc95ea.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394795-d935f880-e36f-11eb-9ef1-bbcc904ebe5a.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394851-f1a61300-e36f-11eb-8423-77192dbfcb62.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394867-f79bf400-e36f-11eb-8d3a-a4054fbb942d.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394884-fec30200-e36f-11eb-95d0-da5b1664f2bf.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125394965-1e5a2a80-e370-11eb-934a-276af9d286cd.png)
 
 45. Repita el problema 43 para el circulo de la ﬁgura 8-98.
 
