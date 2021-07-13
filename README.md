@@ -296,38 +296,57 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 35.- Un voltímetro con una sensibilidad de S = 20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura  7-74. El medidor indica un voltaje de 5.00 V.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587172/125474154-86a03fad-26af-4508-989d-b9c1cb4eee7a.png)
 
 ![1](https://user-images.githubusercontent.com/84587172/125474182-fc45dab1-8a91-4ac1-962d-7325c71659ca.png)
 
 ![2](https://user-images.githubusercontent.com/84587172/125474192-b37df978-2bbf-48ce-a771-5743dd34cc44.png)
+  
+</div>
 
 37.- Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
 
+<div align="center">
+  
 ![3](https://user-images.githubusercontent.com/84587172/125474245-05e60026-81d6-4585-bd8b-b06b1173885f.png)
 
 ![4](https://user-images.githubusercontent.com/84587172/125474265-e4f095e1-ca65-4f17-96f2-267667a48a46.png)
+
+</div>
 
 **7-6 Análisis de circuitos por computadora**
 
 39.- Use Multisim para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10	
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587172/125474350-6dd2e1af-1166-4790-bf18-41022d878866.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/125474373-39e52901-e2d1-44ee-9a66-9802e2716f97.png)
 
+</div>
+
 41.- Use Multisim para encontrar las lecturas del medidor en el circuito de la figura 7-75, si está en la escala de 50 V.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/125474393-a3e56798-ebe4-4651-9f2f-833a4305e9e1.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/125474414-006bc5c8-5449-4deb-99ff-ffd15d6c2c36.png)
 
+</div>
+
 43.- Use PSpice para encontrar  V4, V2, IT, I1, I2 en el circuito de la figura 7-10
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84587172/125474483-df2b5ea8-33ee-44d3-853f-e913f61868ee.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/125474500-b9134688-53f1-4742-8405-90e435da7ce5.png)
 
+</div>
 
 # PROBLEMAS CAPÍTULO VIII
 
@@ -658,3 +677,5 @@ D. Determine el voltaje en R5
 Al comprender y resolver los ejercicios del capítulo VII y VIII capítulo seremos  capaces  de convertir una fuente de voltaje en una fuente de corriente equivalente y analizar los circuitos que tienen dos a más fuentes de corriente en paralelo de igual manera aplicar el teorema de súper posición para determinar la corriente o el voltaje en cualquier resistencia en una red dada, establecer el teorema de Thévenin y determinar el circuito equivalente de Thévenin en cualquier red resistiva
 
 # 6. BIBLIOGRAFÍAS
+
+Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
