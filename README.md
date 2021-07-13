@@ -329,64 +329,94 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 # PROBLEMAS CAPÍTULO VIII
 
-**8.1 Fuentes de corriente constante **
+**8.1 Fuentes de corriente constante**
 
 1.Encuentre el voltaje VS para el circuito de la figura 8-64 
 
+<div align="center">
+  
 ![5](https://user-images.githubusercontent.com/84587172/125475758-2cc4b68d-167c-4aaa-82b4-762a26275532.png)
+
+</div>
 
 3. Vea el circuito de la ﬁgura 8-66:
 
+<div align="center">
+    
 ![image](https://user-images.githubusercontent.com/84587172/125475277-4c31d077-935b-4b44-bc07-9296e43362e3.png)
 
 ![6](https://user-images.githubusercontent.com/84587172/125475811-66de9bf7-3c88-444b-8dda-9db2a69608f9.png)
 
 5. Para el circuito de la ﬁgura 8-68 encuentre las corrientes I1 e I2
-
+  
+<div align="center">
+    
 ![8](https://user-images.githubusercontent.com/84587172/125475887-f834bf1a-8d73-45c7-8a35-88f44f8f5075.png)
+
+</div>
 
 7. Veriﬁque que la potencia suministrada por las fuentes es igual a la suma delas potencias disipadas por los resistores en el circuito de la ﬁgura 8-68.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587172/125475923-db273f46-7b13-4376-aaea-5f10b39fe403.png)
 
 ![9](https://user-images.githubusercontent.com/84587172/125475937-a261e9fd-8dec-4d81-944d-75fc3b16f61a.png)
 
+</div>
+  
 **8-2 Conversiones de funete
 
 9. Convierta cada fuente de voltaje de la ﬁgura 8-70 en su fuente de corrienteequivalente.
+
+<div align="center">
 
 ![10](https://user-images.githubusercontent.com/84587172/125476227-0694f854-8702-4827-abdc-458ae2e8dc40.png)
 
 ![11](https://user-images.githubusercontent.com/84587172/125476233-1e0692fd-9bc9-433f-a6ad-c13f72306f35.png)
 
-
+</div>
+  
 11.Vea el circuito de la ﬁgura 8-72:
 
 a.Encuentre la corriente a través del resistor de carga con la regla del divisorde corriente.
 
 b.Convierta la fuente de corriente en su fuente de voltaje equivalente y determine,otra vez,la corriente a través de la carga
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125387456-93733300-e363-11eb-8537-6eae299469f8.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125387766-0b415d80-e364-11eb-850a-6dd49ec0c1ff.png)
 
+</div>
+  
 13.Vea el circuito de la ﬁgura 8-74:
+  
 a.Convierta la fuente de corriente y el resistor de 330 Ω en su fuente de voltaje equivalente.
 
 b.Encuentre la corriente I a través de RL.
 
 c.Determine el voltaje Vab.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125388150-99b5df00-e364-11eb-851a-8b914613ffc7.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125388390-07faa180-e365-11eb-8b0c-df7e31fb0adb.png)
 
+</div>
+  
 15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125388466-23fe4300-e365-11eb-96d7-a2331e7a755e.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125388747-abe44d00-e365-11eb-8d8b-f55298956759.png)
 
+</div>
+  
 17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohm en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
 
 ![image](https://user-images.githubusercontent.com/84587293/125388825-d3d3b080-e365-11eb-8edd-fc9c2cfa2aaa.png)
