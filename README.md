@@ -434,9 +434,13 @@ c.Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84587293/125389526-f2867700-e366-11eb-9b1f-b1b3bb81f591.png)
 
+![image](https://user-images.githubusercontent.com/84587293/125482211-e489392b-2e06-4dc3-9192-41c977d289d6.png)
+
 21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
 ![image](https://user-images.githubusercontent.com/84587293/125389570-08943780-e367-11eb-8bef-62d7cdd241e8.png)
+
+
 
 23. Vea el circuito de la figura 8-83:
 a. Escriba las ecuaciones de corriente de rama.
