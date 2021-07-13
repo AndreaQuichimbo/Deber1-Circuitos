@@ -409,33 +409,49 @@ c. Determine el voltaje Vab.
 
 Redibujamos el circuito:
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125390141-f5359c00-e367-11eb-99e5-6a41b9b203b0.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125390696-eb606880-e368-11eb-8f74-ae01c3088885.png)
 
+</div>
+
 Sistema de ecuaciones entre 1 y 2
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125390746-fa471b00-e368-11eb-91d6-8452f7764f7a.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125391561-52cae800-e36a-11eb-80df-87e77ccaa39d.png)
+
+</div>
 
 31. Escriba las ecuaciones de malla para la red de la ﬁgura 8-86. Las Encontrar corrientes de lazo con determinantes.
 
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123533825-4003b280-d6de-11eb-84f0-182a2d09b005.png)
-  
-  </div>
-  
-  Redibujamos el circuito:
 
+</div>
+  
+Redibujamos el circuito:
+
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125391693-86a60d80-e36a-11eb-9a1b-b58d57b9dd04.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125391713-90c80c00-e36a-11eb-9935-96f34a4dda9e.png)
 
+</div>
+
 Sistema de ecuaciones de 1,2 y 3:
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125392552-f799f500-e36b-11eb-8b27-607a61fd4507.png)
+
+</div>
 
 **8-6 Análisis de nodos**
 
@@ -445,17 +461,17 @@ Sistema de ecuaciones de 1,2 y 3:
 
 ![image](https://user-images.githubusercontent.com/84430867/123533873-86f1a800-d6de-11eb-8c04-cd7faf1e70f2.png)
   
-  </div>
+</div>
   
- 35. Repita el problema 33 para el circuito de la ﬁgura 8-90.
+35. Repita el problema 33 para el circuito de la ﬁgura 8-90.
 
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123533896-b0aacf00-d6de-11eb-8528-69523e274620.png)
-  
-  </div>
 
 ![image](https://user-images.githubusercontent.com/84587293/125393229-2b294f00-e36d-11eb-893d-2620b3d96bb5.png)
+
+</div>
 
 37. Escriba las ecuaciones de nodos para el circuito de la ﬁgura 8-86 y encuentre V6Ω.
 
@@ -463,7 +479,7 @@ Sistema de ecuaciones de 1,2 y 3:
 
 ![image](https://user-images.githubusercontent.com/84430867/123533918-ddf77d00-d6de-11eb-839a-db8b5bceb30a.png)
   
-  </div>
+</div>
   
  **8-7 Conversiones delta - Y (Pi -T)**
 
@@ -472,10 +488,10 @@ Sistema de ecuaciones de 1,2 y 3:
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123533970-29119000-d6df-11eb-9e22-69ec48fe39d4.png)
-  
-  </div>
-  
+
 ![image](https://user-images.githubusercontent.com/84587293/125393367-75123500-e36d-11eb-8e87-dd0dcd7308be.png)
+
+</div>
 
 41. Convierta cada una de las redes Y de la ﬁgura 8-94 en su conﬁguración Δ equivalente.
 
@@ -483,11 +499,11 @@ Sistema de ecuaciones de 1,2 y 3:
 
 ![image](https://user-images.githubusercontent.com/84587293/125393662-f9fd4e80-e36d-11eb-8af1-81f8e80557b6.png)
   
-  </div>
-
 ![image](https://user-images.githubusercontent.com/84587293/125393884-5f513f80-e36e-11eb-9eaa-ba246990991b.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125393903-65dfb700-e36e-11eb-9203-44c785330ee6.png)
+
+</div>
 
 43. Utilice las estafadores versi las Δ - Y o Y - Δ, para encontrar la corriente I para el circuito de la ﬁgura 8-96.
 
@@ -495,9 +511,7 @@ Sistema de ecuaciones de 1,2 y 3:
 
 ![image](https://user-images.githubusercontent.com/84430867/123534047-b654e480-d6df-11eb-91f3-a083c2ffff8d.png)
   
-  </div>
-  
- ![image](https://user-images.githubusercontent.com/84587293/125394429-4ac17700-e36f-11eb-8192-2c9ca1c04c3c.png)
+![image](https://user-images.githubusercontent.com/84587293/125394429-4ac17700-e36f-11eb-8192-2c9ca1c04c3c.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125394458-51e88500-e36f-11eb-8416-5bbf493131f0.png)
 
@@ -523,13 +537,13 @@ Sistema de ecuaciones de 1,2 y 3:
 
 ![image](https://user-images.githubusercontent.com/84587293/125394965-1e5a2a80-e370-11eb-934a-276af9d286cd.png)
 
+</div>
+
 45. Repita el problema 43 para el circulo de la ﬁgura 8-98.
 
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123534190-e0f36d00-d6e0-11eb-870e-9407842f0974.png)
-  
-  </div>
   
 ![image](https://user-images.githubusercontent.com/84587293/125395281-958fbe80-e370-11eb-89c8-27bbb19e6a62.png)
 
@@ -553,6 +567,8 @@ Sistema de ecuaciones de 1,2 y 3:
 
 ![image](https://user-images.githubusercontent.com/84587293/125396061-9e34c480-e371-11eb-9054-d61fd63b2834.png)
 
+</div>
+
 **8-8 Redes puente**
 
 47. Vea el circuito puente de la ﬁgura 8-100:
@@ -568,8 +584,6 @@ D. Determine el voltaje en R5
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123534244-5fe8a580-d6e1-11eb-81e4-bb3f32261e02.png)
-  
- </div>
 
 ![image](https://user-images.githubusercontent.com/84587293/125396669-798d1c80-e372-11eb-9fbc-5fa35932e8c2.png)
 
@@ -581,13 +595,13 @@ D. Determine el voltaje en R5
 
 ![image](https://user-images.githubusercontent.com/84587293/125397829-1a300c00-e374-11eb-92f7-4bbd7b48fb5d.png)
 
+</div>
+
 49. En el circuito puente de la ﬁgura 8-102 encuentre la corriente a través de cada resistor.
 
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123534268-8eff1700-d6e1-11eb-9454-b90943c01b48.png)
-  
-</div>
 
 ![image](https://user-images.githubusercontent.com/84587293/125397926-3df35200-e374-11eb-8356-1e6856b5d97b.png)
 
@@ -598,6 +612,8 @@ D. Determine el voltaje en R5
 ![image](https://user-images.githubusercontent.com/84587293/125398321-c83bb600-e374-11eb-8bb7-03c6869dbfa2.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125398874-78112380-e375-11eb-89fa-2606aa8b7e72.png)
+
+</div>
 
 # 4. VIDEO
 
