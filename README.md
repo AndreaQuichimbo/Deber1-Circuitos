@@ -133,7 +133,13 @@ Las siguientes cantidades:
 
 A. RT
 
+![image](https://user-images.githubusercontent.com/84587293/125405336-3c7a5780-e37d-11eb-947e-9cd7926f5b1e.png)
+
 B. IT, I1, I2, I3, I4
+
+![image](https://user-images.githubusercontent.com/84587293/125405472-659ae800-e37d-11eb-95b6-24a09208a9dd.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125405508-6fbce680-e37d-11eb-830e-2c04bbc0be63.png)
 
 C. Vab,Vbc
 
