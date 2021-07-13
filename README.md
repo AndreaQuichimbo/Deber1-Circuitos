@@ -137,12 +137,16 @@ Las siguientes cantidades:
 
 A. RT
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125405707-9f6bee80-e37d-11eb-8ace-4e66de88ed55.png)
 
 </div>
 
 B. IT, I1, I2, I3, I4
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125405869-ce826000-e37d-11eb-8ee8-7beb3d5001c9.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125405931-e0640300-e37d-11eb-90e0-189f1ceeffc0.png)
