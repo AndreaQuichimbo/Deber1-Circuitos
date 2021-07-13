@@ -572,30 +572,8 @@ Sistema de ecuaciones de 1,2 y 3:
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/123534190-e0f36d00-d6e0-11eb-870e-9407842f0974.png)
+![image](https://user-images.githubusercontent.com/84587293/125489689-604047f6-224b-4121-89d5-ea57444d1e87.png)
   
-![image](https://user-images.githubusercontent.com/84587293/125395281-958fbe80-e370-11eb-89c8-27bbb19e6a62.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395292-9b859f80-e370-11eb-8b2a-34c29571cd8d.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395535-f0c1b100-e370-11eb-894a-9d8780bc06cc.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395559-fa4b1900-e370-11eb-9775-6b512c4219fa.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395756-35e5e300-e371-11eb-90f5-3d2402460eb8.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395787-3ed6b480-e371-11eb-90a1-0df636c530df.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395886-62016400-e371-11eb-8f9c-7ad301970dba.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395907-67f74500-e371-11eb-8437-a525058bca87.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395965-7a717e80-e371-11eb-923c-a5bfedf11274.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125395980-7fcec900-e371-11eb-846d-e48a923cad34.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125396061-9e34c480-e371-11eb-9054-d61fd63b2834.png)
-
 </div>
 
 **8-8 Redes puente**
