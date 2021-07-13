@@ -39,8 +39,6 @@ Analizar y comprender  el capítulo VII y VIII del libro de Análisis de Circuit
 ![image](https://user-images.githubusercontent.com/84587172/125473893-90ade79d-a6c3-4caa-9615-785746dc47b8.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/125473917-f2b7c84b-6c65-4090-8c42-a0b51a85fd81.png)  
-
-![image](https://user-images.githubusercontent.com/84587172/125485752-6dc121bb-ce12-45fd-b411-dd3dedff7d3d.png)
   
 </div>
  
@@ -184,66 +182,6 @@ C. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las
   
 </div>
 
-15. Vea los circuitos de la ﬁgura 7-58:
-
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84430867/123715440-ee723980-d83d-11eb-9e06-5480e5119d5e.png)
-  
-![image](https://user-images.githubusercontent.com/84430867/123715501-106bbc00-d83e-11eb-8ac2-c2a5809fe32e.png)
-
-![image](https://user-images.githubusercontent.com/84430867/125478646-462ccaa8-8ab8-4c82-8dbc-7835232442c5.png)
-
-</div>
-
-A. Encuentre las corrientes indicadas.
-
-B. Encuentre el voltaje Vab.
-
-C. Veriﬁque que la potencia suministrada al circuito es igual a la suma de laspotencias disipadas por los resistores.
-
-**7-3 Aplicacion es de los circuitos en serie-paralelo.**
-
-17. Encuentra hoy las corrientes y caídas de voltaje en el circuito de la ﬁgura 7-60. 
-
-Veriﬁque que la potencia suministrada por la fuente de voltaje es igual a la potencia disipada por los resistores y por el diodo zener.
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/123532175-a1bd2000-d6d0-11eb-89a2-20196c27ffe8.png)
-
-</div>
-
-19. En el circuito de la ﬁgura 7-62 determinar el intervalo de R (valores máximo ymínimo) que asegurarán que el voltaje de salida sea de VL = 5.6 V mientrasque no se exceda la especiﬁcación de máxima potencia del diodo zener.
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/123532197-daf59000-d6d0-11eb-8982-5a670d50c14d.png)
-
-</div>
-
-21. En el circuito de la ﬁgura 7-64 determinar Vb, Ic y Vce.
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/123532235-25770c80-d6d1-11eb-8901-5bf324edf77c.png)
-
-</div>
-
-23. Considere el circuito de la ﬁgura 7-65 y los valores indicados:
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/123532297-a33b1800-d6d1-11eb-9c08-303f4459c8af.png)
-
-</div>
-
-A. Determine ID.
-
-B. Calcule el valor requerido de RS.
-
-C. EncuentreV  DS.
-
 25. Calcule IC y Vce para el circuito de la ﬁgura 7-67.
 
 <div align="center">
@@ -305,6 +243,17 @@ B. Calcule R2 cuando Vsal = 20 V.
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/125480906-bee5e551-3d1c-4024-bde6-468e6d59e6e3.png)
+
+</div>
+
+ 
+33.En el circuito de la ﬁgura 7-72 calcule el voltaje de salida Vsal cuando RL = 0 Ω ,250 Ω y 500 Ω.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/125485865-d92f2908-d928-4e7a-90e7-9c71c722f41c.png)
+
+![image](https://user-images.githubusercontent.com/84430867/125486540-4a4bea2e-d200-4488-a3be-f8dba5e723d7.png)
 
 </div>
 
@@ -442,9 +391,7 @@ c.Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84587293/125389570-08943780-e367-11eb-8bef-62d7cdd241e8.png)
 
-![image](https://user-images.githubusercontent.com/84587293/125483481-07138921-4642-47dd-8311-043619137898.png)
 
-![image](https://user-images.githubusercontent.com/84587293/125483539-c54ca67e-c05a-42d0-9b1b-a2d4444716ab.png)
 
 23. Vea el circuito de la figura 8-83:
 a. Escriba las ecuaciones de corriente de rama.
@@ -455,13 +402,6 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84587293/125389636-26fa3300-e367-11eb-8b5c-d896baa983b4.png)
 
-![image](https://user-images.githubusercontent.com/84587293/125483602-63c877f9-1540-42c0-86f7-0804ee7148f8.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125483647-02189645-5e4e-4c1f-bb91-1b176e7c301b.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125484361-84c99194-d7ec-496e-859c-5417fb7ba9db.png)
-
-
 **8-5 Análisis de mallas (lazos)**
 
 25. Escriba las ecuaciones de ma lla para el circuito que se muestra en la ﬁgura 8-79 y encuentre las corrientes de lazo.
@@ -471,10 +411,6 @@ c. Determine el voltaje Vab.
 ![image](https://user-images.githubusercontent.com/84430867/123533717-5eb57980-d6dd-11eb-825d-4d2f0419c683.png)
   
   </div>
-  
- ![image](https://user-images.githubusercontent.com/84587293/125484410-7cd376af-8907-4bb5-88c3-59bfdfe3270d.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125484978-e99eb257-50c1-48fd-8d3a-cb6c32902c57.png)
 
 27. Use el análisis de malla para encontrar la corriente I2 en el circuito de la ﬁgura 8-81.
 
@@ -483,10 +419,6 @@ c. Determine el voltaje Vab.
 ![image](https://user-images.githubusercontent.com/84430867/123533749-90c6db80-d6dd-11eb-8303-c6596320c8f7.png)
   
 </div>
-
-![image](https://user-images.githubusercontent.com/84587293/125485060-b77aca87-6b60-4724-a123-89b909eee36d.png)
-
-![image](https://user-images.githubusercontent.com/84587293/125485540-ea4d40da-817c-4e67-ae9e-4cd4d006850a.png)
 
 29. Utilizar el análisis de malla para encontrar las corrientes de lazo en el circuito de la 
 ﬁgura 8-84. Usar sus resultados para determinar I y Vab.
