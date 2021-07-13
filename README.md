@@ -249,7 +249,7 @@ B. Calcule R2 cuando Vsal = 20 V.
  
  Vs = IR = 3*6 = 18v +20v = 38v
 
-23. Vea el circuito de la ﬁgura 8-66:
+3. Vea el circuito de la ﬁgura 8-66:
 
 A. Escriba Las ecuaciones de Corriente de rama.
 
@@ -265,6 +265,77 @@ C. Determine el voltaje V ab.
 
 ![image](https://user-images.githubusercontent.com/84587293/125384931-3d9c8c00-e35f-11eb-84ae-b5cb054d209d.png)
 
+5. Para el circuito de la ﬁgura 8-68 encuentre las corrientes I1 e I2
+
+![image](https://user-images.githubusercontent.com/84587293/125385322-e21ece00-e35f-11eb-836f-bd1418a61670.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125385740-b4865480-e360-11eb-8674-4f40f3ed035d.png)
+
+7. Veriﬁque que la potencia suministrada por las fuentes es igual a la suma delas potencias disipadas por los resistores en el circuito de la ﬁgura 8-68.
+
+![image](https://user-images.githubusercontent.com/84587293/125385839-e0093f00-e360-11eb-8271-1b2213bdf170.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125386510-0a0f3100-e362-11eb-8e24-5ab304defe1d.png)
+
+**8-2 Conversiones de funete
+
+9. Convierta cada fuente de voltaje de la ﬁgura 8-70 en su fuente de corrienteequivalente.
+
+![image](https://user-images.githubusercontent.com/84587293/125386937-c2d57000-e362-11eb-9b22-36937cb18d64.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125387349-5ad35980-e363-11eb-955e-724404024b12.png)
+
+11.Vea el circuito de la ﬁgura 8-72:
+
+a.Encuentre la corriente a través del resistor de carga con la regla del divisorde corriente.
+
+b.Convierta la fuente de corriente en su fuente de voltaje equivalente y determine,otra vez,la corriente a través de la carga
+
+![image](https://user-images.githubusercontent.com/84587293/125387456-93733300-e363-11eb-8537-6eae299469f8.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125387766-0b415d80-e364-11eb-850a-6dd49ec0c1ff.png)
+
+13.Vea el circuito de la ﬁgura 8-74:
+a.Convierta la fuente de corriente y el resistor de 330 Ω en su fuente de voltaje equivalente.
+
+b.Encuentre la corriente I a través de RL.
+
+c.Determine el voltaje Vab.
+
+![image](https://user-images.githubusercontent.com/84587293/125388150-99b5df00-e364-11eb-851a-8b914613ffc7.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125388390-07faa180-e365-11eb-8b0c-df7e31fb0adb.png)
+
+15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
+
+![image](https://user-images.githubusercontent.com/84587293/125388466-23fe4300-e365-11eb-96d7-a2331e7a755e.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125388747-abe44d00-e365-11eb-8d8b-f55298956759.png)
+
+17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohm en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
+
+![image](https://user-images.githubusercontent.com/84587293/125388825-d3d3b080-e365-11eb-8edd-fc9c2cfa2aaa.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125389073-40e74600-e366-11eb-8d06-665110adf154.png)
+
+**8-4 Análisis de corriente de rama
+
+19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes.
+
+![image](https://user-images.githubusercontent.com/84587293/125389526-f2867700-e366-11eb-9b1f-b1b3bb81f591.png)
+
+21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
+
+![image](https://user-images.githubusercontent.com/84587293/125389570-08943780-e367-11eb-8bef-62d7cdd241e8.png)
+
+23. Vea el circuito de la figura 8-83:
+a. Escriba las ecuaciones de corriente de rama.
+
+b. Encuentre la corriente I2.
+
+c. Determine el voltaje Vab.
+
+![image](https://user-images.githubusercontent.com/84587293/125389636-26fa3300-e367-11eb-8b5c-d896baa983b4.png)
 
 **8-5 Análisis de mallas (lazos)**
 
