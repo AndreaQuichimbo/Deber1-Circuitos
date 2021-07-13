@@ -243,7 +243,13 @@ B. Calcule R2 cuando Vsal = 20 V.
 
 # PROBLEMAS CAPÍTULO VIII
 
-23. Vea el circuito de la ﬁgura 8-83:
+1.Encuentre el voltaje VS para el circuito de la figura 8-64 
+
+![image](https://user-images.githubusercontent.com/84587293/125383746-83f0eb80-e35d-11eb-983a-2237f310682a.png)
+ 
+ Vs = IR = 3*6 = 18v +20v = 38v
+
+23. Vea el circuito de la ﬁgura 8-66:
 
 A. Escriba Las ecuaciones de Corriente de rama.
 
@@ -256,6 +262,9 @@ C. Determine el voltaje V ab.
 ![image](https://user-images.githubusercontent.com/84430867/123533499-c4086b00-d6db-11eb-8499-5891287e5a35.png)
   
   </div>
+
+![image](https://user-images.githubusercontent.com/84587293/125384931-3d9c8c00-e35f-11eb-84ae-b5cb054d209d.png)
+
 
 **8-5 Análisis de mallas (lazos)**
 
