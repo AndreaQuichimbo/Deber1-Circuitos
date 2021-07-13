@@ -292,7 +292,19 @@ B. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve
 
 A. Determine el intervalo del voltaje de salida (del mínimo al máximo) que seespera cuando el potenciómetro se ajusta del mínimo al máximo.
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/125480650-2bbe1ad4-69be-4d1d-8125-dd940a9486ff.png)
+
+</div>
+
 B. Calcule R2 cuando Vsal = 20 V.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/125480906-bee5e551-3d1c-4024-bde6-468e6d59e6e3.png)
+
+</div>
 
 **7-5 Efectos de carga de los instrumentos**
 
