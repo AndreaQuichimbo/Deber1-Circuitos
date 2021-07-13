@@ -237,6 +237,14 @@ B. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve
 
 </div>
 
+![image](https://user-images.githubusercontent.com/84587293/125403910-abef4780-e37b-11eb-8c2f-95394cbd1d5c.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125403971-b7db0980-e37b-11eb-8ff3-e895827c7b1f.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125403991-be698100-e37b-11eb-9311-def9aaa2bbfa.png)
+
+
+
 29. Si el potenciómetro de la ﬁgura 7-70 se ajusta para que R2 = 200Ω, de terminalos voltajes Vab y Vcd.
 
 <div align="center">
