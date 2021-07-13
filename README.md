@@ -71,11 +71,7 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84430867/123570412-c5926b80-d78d-11eb-9da5-3dc08de6dc2e.png)
 
-![image](https://user-images.githubusercontent.com/84430867/125391420-1bf4d200-e36a-11eb-9681-3429cd2ae342.png)
-
 ![image](https://user-images.githubusercontent.com/84430867/123570500-f1155600-d78d-11eb-9988-afb3d34cb2b4.png)
-  
-![image](https://user-images.githubusercontent.com/84430867/125391532-46df2600-e36a-11eb-8843-77b8ec83f830.png)
 
 </div>
 
@@ -85,11 +81,7 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/123570535-07bbad00-d78e-11eb-8036-63cde2dbef5f.png)
   
-![image](https://user-images.githubusercontent.com/84430867/125392143-3e3b1f80-e36b-11eb-8dbf-97ab34a53172.png)
-  
 ![image](https://user-images.githubusercontent.com/84430867/123570555-14400580-d78e-11eb-85f0-d72318d26a7f.png)
-
-![image](https://user-images.githubusercontent.com/84430867/125392172-498e4b00-e36b-11eb-95c4-30a5922320a6.png)
 
 </div>
   
@@ -106,8 +98,6 @@ B. RT = R1 + ( R2 || R3) + [ R4 || ( R5 || R6)]
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/123571044-063eb480-d78f-11eb-8245-32a0193b4063.png)
-  
-![image](https://user-images.githubusercontent.com/84430867/125392833-7b53e180-e36c-11eb-87df-904a8995b785.png)
   
 ![image](https://user-images.githubusercontent.com/84430867/123571072-122a7680-d78f-11eb-9c17-6335372cfd3f.png)
 
@@ -374,6 +364,18 @@ c. Determine el voltaje Vab.
   
 </div>
 
+Redibujamos el circuito:
+
+![image](https://user-images.githubusercontent.com/84587293/125390141-f5359c00-e367-11eb-99e5-6a41b9b203b0.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125390696-eb606880-e368-11eb-8f74-ae01c3088885.png)
+
+Sistema de ecuaciones entre 1 y 2
+
+![image](https://user-images.githubusercontent.com/84587293/125390746-fa471b00-e368-11eb-91d6-8452f7764f7a.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125391561-52cae800-e36a-11eb-80df-87e77ccaa39d.png)
+
 31. Escriba las ecuaciones de malla para la red de la ﬁgura 8-86. Las Encontrar corrientes de lazo con determinantes.
 
 <div align="center">
@@ -381,6 +383,16 @@ c. Determine el voltaje Vab.
 ![image](https://user-images.githubusercontent.com/84430867/123533825-4003b280-d6de-11eb-84f0-182a2d09b005.png)
   
   </div>
+  
+  Redibujamos el circuito:
+
+![image](https://user-images.githubusercontent.com/84587293/125391693-86a60d80-e36a-11eb-9a1b-b58d57b9dd04.png)
+
+![image](https://user-images.githubusercontent.com/84587293/125391713-90c80c00-e36a-11eb-9935-96f34a4dda9e.png)
+
+Sistema de ecuaciones de 1,2 y 3:
+
+![image](https://user-images.githubusercontent.com/84587293/125392552-f799f500-e36b-11eb-8b27-607a61fd4507.png)
 
 **8-6 Análisis de nodos**
 
@@ -391,14 +403,16 @@ c. Determine el voltaje Vab.
 ![image](https://user-images.githubusercontent.com/84430867/123533873-86f1a800-d6de-11eb-8c04-cd7faf1e70f2.png)
   
   </div>
-
-35. Repita el problema 33 para el circuito de la ﬁgura 8-90.
+  
+ 35. Repita el problema 33 para el circuito de la ﬁgura 8-90.
 
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123533896-b0aacf00-d6de-11eb-8528-69523e274620.png)
   
   </div>
+
+![image](https://user-images.githubusercontent.com/84587293/125393229-2b294f00-e36d-11eb-893d-2620b3d96bb5.png)
 
 37. Escriba las ecuaciones de nodos para el circuito de la ﬁgura 8-86 y encuentre V6Ω.
 
@@ -407,8 +421,8 @@ c. Determine el voltaje Vab.
 ![image](https://user-images.githubusercontent.com/84430867/123533918-ddf77d00-d6de-11eb-839a-db8b5bceb30a.png)
   
   </div>
-
-**8-7 Conversiones delta - Y (Pi -T)**
+  
+ **8-7 Conversiones delta - Y (Pi -T)**
 
 39. Convierta cada una de las redes Δ de la ﬁgura 8-92 en su conﬁguración Y equivalente.
 
@@ -417,6 +431,8 @@ c. Determine el voltaje Vab.
 ![image](https://user-images.githubusercontent.com/84430867/123533970-29119000-d6df-11eb-9e22-69ec48fe39d4.png)
   
   </div>
+  
+![image](https://user-images.githubusercontent.com/84587293/125393367-75123500-e36d-11eb-8e87-dd0dcd7308be.png)
 
 41. Convierta cada una de las redes Y de la ﬁgura 8-94 en su conﬁguración Δ equivalente.
 
