@@ -640,6 +640,8 @@ D. Determine el voltaje en R5
 
 # 4. VIDEO
 
+https://youtu.be/dHIa4pPJBm8
+
 # 5. CONCLUSIONES
 
 Al comprender y resolver los ejercicios del capítulo VII y VIII capítulo seremos  capaces  de convertir una fuente de voltaje en una fuente de corriente equivalente y analizar los circuitos que tienen dos a más fuentes de corriente en paralelo de igual manera aplicar el teorema de súper posición para determinar la corriente o el voltaje en cualquier resistencia en una red dada, establecer el teorema de Thévenin y determinar el circuito equivalente de Thévenin en cualquier red resistiva
