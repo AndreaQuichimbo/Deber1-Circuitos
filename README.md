@@ -421,33 +421,48 @@ c.Determine el voltaje Vab.
   
 17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohm en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/125388825-d3d3b080-e365-11eb-8edd-fc9c2cfa2aaa.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125389073-40e74600-e366-11eb-8d06-665110adf154.png)
+
+</div>
 
 **8-4 Análisis de corriente de rama
 
 19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125389526-f2867700-e366-11eb-9b1f-b1b3bb81f591.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125482211-e489392b-2e06-4dc3-9192-41c977d289d6.png)
 
+</div>
+
 21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125389570-08943780-e367-11eb-8bef-62d7cdd241e8.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125483481-07138921-4642-47dd-8311-043619137898.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125483539-c54ca67e-c05a-42d0-9b1b-a2d4444716ab.png)
 
+</div>
+
 23. Vea el circuito de la figura 8-83:
+
 a. Escriba las ecuaciones de corriente de rama.
 
 b. Encuentre la corriente I2.
 
 c. Determine el voltaje Vab.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125389636-26fa3300-e367-11eb-8b5c-d896baa983b4.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125483602-63c877f9-1540-42c0-86f7-0804ee7148f8.png)
@@ -456,7 +471,8 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84587293/125484361-84c99194-d7ec-496e-859c-5417fb7ba9db.png)
 
-
+</div>
+  
 **8-5 Análisis de mallas (lazos)**
 
 25. Escriba las ecuaciones de ma lla para el circuito que se muestra en la ﬁgura 8-79 y encuentre las corrientes de lazo.
@@ -465,26 +481,25 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84430867/123533717-5eb57980-d6dd-11eb-825d-4d2f0419c683.png)
   
-  </div>
-  
- ![image](https://user-images.githubusercontent.com/84587293/125484410-7cd376af-8907-4bb5-88c3-59bfdfe3270d.png)
+![image](https://user-images.githubusercontent.com/84587293/125484410-7cd376af-8907-4bb5-88c3-59bfdfe3270d.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125484978-e99eb257-50c1-48fd-8d3a-cb6c32902c57.png)
 
+ </div>
+ 
 27. Use el análisis de malla para encontrar la corriente I2 en el circuito de la ﬁgura 8-81.
 
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/123533749-90c6db80-d6dd-11eb-8303-c6596320c8f7.png)
-  
-</div>
 
 ![image](https://user-images.githubusercontent.com/84587293/125485060-b77aca87-6b60-4724-a123-89b909eee36d.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/125485540-ea4d40da-817c-4e67-ae9e-4cd4d006850a.png)
 
-29. Utilizar el análisis de malla para encontrar las corrientes de lazo en el circuito de la 
-ﬁgura 8-84. Usar sus resultados para determinar I y Vab.
+</div>
+
+29. Utilizar el análisis de malla para encontrar las corrientes de lazo en el circuito de la ﬁgura 8-84. Usar sus resultados para determinar I y Vab.
 
 <div align="center">
 
